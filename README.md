@@ -1,2 +1,3 @@
 # Registration_form_mern
- Created a registration form menu using EJS , Node and Express.js Use css and html also it in hope you like this one...
+ Created a registration form menu using Handelbars , Node and Express.js
+Hope you like it
